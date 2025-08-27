@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://mobil.rectv1248.xyz/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Spor", TABİİ SPOR
-https://cdn.srectv2.xyz/live/tabi/index.m3u8?token=YY5iXtl8tSBgvyFszg4f7Q&tms=1729240670
+https://cdn.srectv2.xyz/live/tabi/index.m3u8?token=
 #EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://mobil.rectv1248.xyz/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Spor", TABİİ SPOR
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web&?token=YY5iXtl8tSBgvyFszg4f7Q&tms=1729240670
 #EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://mobil.rectv1248.xyz/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Spor", TABİİ SPOR
@@ -279,3 +279,4 @@ https://lives.anystreamrectv3.live/live/habitat.m3u8?token=fWmyI4BMcOexuZm3kkLBz
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8?token=fWmyI4BMcOexuZm3kkLBzQ&tms=1729240671
 #EXTINF:-1 tvg-id="10" tvg-name="FASHION TV" tvg-logo="https://mobil.rectv1248.xyz/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="Diğer", FASHION TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8?token=fWmyI4BMcOexuZm3kkLBzQ&tms=1729240671
+
